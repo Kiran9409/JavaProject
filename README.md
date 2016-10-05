@@ -1,3 +1,4 @@
 # JavaProject
 
-hello...I am learning Github.
+hello...
+I am trying to change  Java project Repository.
